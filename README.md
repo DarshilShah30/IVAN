@@ -7,17 +7,17 @@ In IT enabled services, IT support requires more time and the user has to wait f
 System Requirements:
 
 > Software:
-OS : Raspbian OS and Windows 7 or above <br>
-Database: MongoDB and AIML
-Interpreter: Python IDLE 
+OS: Raspbian OS and Windows 7 or above <br>
+Database: MongoDB and AIML <br>
+Interpreter: Python IDLE <br>
  
 
 > Hardware:
-Raspberry-Pi  3B+ or above
-Memory card 8 GBs or above
-USB Mic
-USB Speaker
-Power bank
+Raspberry-Pi  3B+ or above <br>
+Memory card 8 GBs or above <br>
+USB Mic <br>
+USB Speaker <br>
+Power bank <br>
 
 Flowchart:
 
