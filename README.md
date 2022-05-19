@@ -7,10 +7,10 @@ In IT enabled services, IT support requires more time and the user has to wait f
 System Requirements:
 
 > Software:
-
 OS : Raspbian OS and Windows 7 or above
 Database: MongoDB and AIML
 Interpreter: Python IDLE 
+ 
 
 > Hardware:
 
