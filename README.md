@@ -17,7 +17,6 @@ Memory card 8 GBs or above
 USB Mic
 USB Speaker
 Power bank
-![image](https://user-images.githubusercontent.com/48917126/169421636-23fe3625-e172-4989-a01e-82aeef63c39f.png)
 
 Flowchart
 
