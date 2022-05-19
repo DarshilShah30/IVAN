@@ -8,7 +8,9 @@ System Requirements:
 
 > Software:
 OS : Raspbian OS and Windows 7 or above
+
 Database: MongoDB and AIML
+
 Interpreter: Python IDLE 
 
 > Hardware:
